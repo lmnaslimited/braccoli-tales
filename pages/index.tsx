@@ -56,7 +56,7 @@ export default function Page(): JSX.Element {
           </div>
           <Gradient className={styles.largeGradient} conic />
           <div className={styles.titleContainer}>
-            <h1 className={styles.title}>Blogs:3001</h1>
+            <h1 className={styles.title}>Blog:3001</h1>
           </div>
         </div>
       </div>
